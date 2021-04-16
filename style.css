@@ -1,0 +1,61 @@
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: 1em;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item:hover {
+    position: relative;
+    display: inline-block;
+    font-size: 1.5em;
+    font-weight: 800;
+    color: black;
+    overflow: hidden;
+    text-decoration: underline;
+}
+
+.carousel-inner {
+    padding: 5% 5%;
+    text-align: center;
+}
+
+#service {
+    padding: 10% 20%;
+    position: relative;
+}
+
+.one {
+    padding: 10px;
+}
+
+.two {
+    padding: 10px;
+}
+
+.three {
+    padding: 10px;
+}
+
+.list {
+    background-color: white;
+    display: none;
+    border-radius: 50px;
+    border-width: thin 10px;
+    border-color: black;
+    position: relative;
+}
+
+.list1:hover+.list {
+    display: block;
+}
+
+.Grid__item--JyxXq:hover {
+    background-color: #9dbeb9;
+}
